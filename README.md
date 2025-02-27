@@ -1,10 +1,6 @@
 <h1 align="center">
 Adrian Javier
 
-  
-  <h2 align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Adrian Javier.;I'm+a+student+in+Laguna University.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
 ## Contribution Snake 
